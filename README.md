@@ -2,12 +2,9 @@
 
 A responsive and animated multi-step feedback form built with React, TypeScript, and Tailwind CSS. This project demonstrates modern web development practices including form validation, state management, and micro-interactions.
 
-![Multi-step Form Demo](link-to-your-demo-gif)
-
 ## Features
 
 - 🎯 Multi-step form wizard with progress tracking
-- ✨ Smooth animations and micro-interactions
 - 📱 Fully responsive design
 - ✅ Form validation with error handling
 - 🎨 Clean UI with Tailwind CSS
